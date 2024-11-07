@@ -72,11 +72,11 @@ The **Sales Data** dataset contains key information on sales transactions, inclu
 - **Retailer**: The name of the retailer or store selling the product.
 - **Retailer ID**: A unique identifier assigned to each retailer.
 - **Invoice Date**: The date the transaction occurred.
-- **Location Key**: A unique identifier for the location (store, warehouse, region) where the sale took place.
+- **Location Key**: A unique identifier for the location where the sale took place.
 - **Product**: The name or identifier of the product sold.
 - **Price per Unit**: The price of one unit of the product.
 - **Units Sold**: The number of units sold in the transaction.
-- **Total Sales**: The total revenue generated from the sale (calculated as `Price per Unit * Units Sold`).
+- **Total Sales**: The total revenue generated from the sale.
 - **Operating Profit**: The profit generated from operations, excluding non-operating income and expenses.
 - **Operating Margin**: The percentage of revenue that is operating profit.
 - **Sales Method**: The method through which the sale was made, such as in-store, online, or outlet.
@@ -107,7 +107,7 @@ The **Location Data** dataset provides geographic details for each sale location
    - Open the `.pbix` file from the repository in Power BI to interact with the dashboard.
 
 3. **Data Preparation:**
-   - Ensure your dataset is structured as specified in the `data/` folder. You can update it as needed to match the format.
+   - Ensure your dataset is structured as specified in the [Data](https://github.com/AbdurRahman-Olaniyan/Adidas-US-Sales-Analysis/tree/main/Data) folder. You can update it as needed to match the format.
 
 ## Usage
 
