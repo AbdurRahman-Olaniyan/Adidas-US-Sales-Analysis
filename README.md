@@ -20,7 +20,7 @@ This project provides an in-depth analysis of Adidas US sales performance for 20
 - **Region Slicer**: Filter the report based on specific regions, allowing for targeted performance analysis.
 
 ### **Adidas Product Analysis**
-![Productpage](https://github.com/user-attachments/assets/39cc82d1-e581-4a22-985d-183c8ad00129)
+![image](https://github.com/user-attachments/assets/6b99888c-6755-4e18-8272-d845d6106c1d)
 
 - **Retailer Slicer**: Filter the analysis by different retailers to compare performance.
 - **Year and Month Slicer**: Adjust the timeframe to analyze sales for specific years and months.
